@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coffee-shop-770bc",
+  "private_key_id": "2cf28fa9653d6a671aef0375f6da635c5c80d7a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzPHmAZQlXKIEv\ndlvuBcX5OMua5Ki/zwpXmw/hR6JR/hnNwtwpmVVbCrDMlDSJQdQtnZ0eYmSYcBKx\nz/8bNdRymov1P75mYO1zCCz9AlLfctrkGXhXUXISHez1jOZH1VGz/ro5ilH/nlSV\nwPQ10n5S8XCBRSWFfJq3mGnUefhQQWxG/m8oYd9YYX+ztTNrTZKq38NsuGP1Xx4w\nhuCxLZOf3gZ+itC20LnPYVL4x+hfiM1QIz5ZdNMT398e4zsrVNdIYv0vf7dK8TFp\nsJJUCVWlOx5hmBNJMma8UwtXOo9NTCio8Q9+PP3b3VwmebksZrbNqtfUDaK+yY2D\nUPMvPBlNAgMBAAECggEAHa6FHHse6d0eT6LVJHy2RUhfh14Yh/McbleScKcxPUzM\nLyP227i1xublUmu0q4pIPemdDFwU9p2Qqvub7oCilvv683lD6aZhjCwtbxTEbpaR\nozaIlEU7k7568EsOE5VC+4DSjBbY73Dj5wzWJFegbdHn5LBzv0BcSs0lsXclZPy5\no/Bo0P8L0+IBBUTqHMCvoZFlGIRKrVtDNmXt9CyKNlIU6HSm3LBHMiPCQ+LlAyda\nHZI+OqCmGSfqQKRZTpAaRGp7VQD8AReeJCvJeLejypglTHh9WuXJyNeQQoQOq/An\nr99GFz5GENW9ojrqgfFXgCXhvwPbUZ52xuGFLTUE7QKBgQDXfUwGEjgSrZkeCVvf\nA2HKnjEReaqClyIMWolcd/sbg8NxHKY+6Y+VyPpUZQNlTC1my42PODmRV9X7/xAH\n+pRtSfPg/uw9Bre9sRl0H9JK03HWawehkKm+ahV39pFafH04dn7Bdod+G8dNA8di\n2Li0lZX0pRKCNZNeL6S3+YERNwKBgQDU7nIdkm2GTlJrov20gtbxuTQ8AwOdcXDI\n3N/nwxqu9H4kkniHfF46Nh8u5MnYZF9/l/03YHlAm152xZA2Hg9wCzN2Ts7xUCUv\nOgThki/P9kc+Rw0iXKG9LoUpp48RAl7nhBvhIs2NK1hakgrYavDkxQ7H2PcP5S+q\nTmfZNVk7mwKBgFmKVuyu5V3dhKJWgTZJ0XjAAuOgCpn48szvUeR6dn0YYz29Cdda\nda9ns50d3CtbXAI60reQRVt/hAsSETc/iC1hbVUwmDlDcVYBIPJ/xoIRGlxeXO1l\njyLwMbuHWR6gW+f6VPFOrz5XjJkT2OXZ5+Yhwg3GCcrROEsKwQcxRdBBAoGBAMd1\nLPRCi9H5X/9vyJPk1A/OWv20HRjIgMvHCv6ApmgoolkD01+mwmVo+UDmE6VeMI7H\nAu1ys2IvqAc9/V6UPgXImEZEgFlPp+VbReM/GwaFPis6RzVe7CrYfuiMCtn2DIx2\nFd+IyF9qsPL2Rq5/TnQdm0DdHmGHYGT52RGAhbvtAoGBAKt1f0kFLRcbOMXVjYgW\nJNuI2bS1JxiTZOz7x9z4Ducw+0KNncYxbCqdEEuNTQOpa0/nIA17xArUiBYGhE4W\nMy4g79KWmWFVtQRpGmF9mbi0no8KUhTI0djPLa/WGP70qrMw+GnMRkJ98m7TlHzx\nw0swWSjg9GiIcJo/kReuvut3\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-fefdfk@coffee-shop-770bc.iam.gserviceaccount.com",
+  "client_id": "104891396766712408079",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-fefdfk%40coffee-shop-770bc.iam.gserviceaccount.com"
+}
